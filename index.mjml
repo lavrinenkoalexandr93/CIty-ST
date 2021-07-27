@@ -1,0 +1,146 @@
+<mjml>
+    <mj-body >
+        <mj-section background-color="#ffffff">
+            <mj-column>
+                <mj-image
+                     src="City.png"
+                     alt=""
+                     width="300px"
+                     padding-bottom="20px" />
+                <mj-text font-size="30px" font-weight="500" align="center">
+                    Email Template
+                </mj-tetx>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff">
+            
+            <mj-column width="504px">
+            <mj-image
+                     src="AmigosDesignJam.png"
+                     alt=""
+                     width="504px"
+                />
+                <mj-text font-size="16px" line-height="24px" align="center">
+                    Boost your emails with Blush! Create dope emails easy and fast!  Install the Blush plugin to customize all the illustrations!
+                </mj-text>
+                <mj-button color="#000" font-size="14px" font-weight="500" background-color="#fff" border="1px solid #000" >
+                    Try it now!
+                </mj-button>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#ffffff">
+            <mj-column >
+                <mj-image
+                    src="Image.png"
+                    alt=""
+                    width="284px" />
+            </mj-column>
+            <mj-column>
+                <mj-text padding-top="20px" padding-left="0" color="#000" font-size="27px" font-weight="700" align="left" line-height="34px">
+                    Customize this<br> email template!
+                </mj-text>
+                <mj-text padding-top="0" padding-left="0" color="#000" font-size="19px" font-weight="400" line-height="24px">
+                    Boost your emails with Blush! Create dope emails easy and fast! 
+                </mj-text>
+                <mj-button padding-left="0" color="#000" font-size="14px" font-weight="500" background-color="#fff" border="1px solid #000" align="left" >
+                    Try it now!
+                </mj-button>
+
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#ffffff">
+            
+            <mj-column padding-left="15px">
+                <mj-text padding-top="20px"   color="#000" font-size="27px" font-weight="700" align="left" line-height="34px">
+                    Customize this<br> email template!
+                </mj-text>
+                <mj-text padding-top="0"  color="#000" font-size="19px" font-weight="400" line-height="24px">
+                    Boost your emails with Blush! Create dope emails easy and fast! 
+                </mj-text>
+                <mj-button  color="#000" font-size="14px" font-weight="500" background-color="#fff" border="1px solid #000" align="left" >
+                    Try it now!
+                </mj-button>
+
+            </mj-column>
+
+            <mj-column  >
+                <mj-image
+                    src="Image2.png"
+                    alt=""
+                    width="284px" 
+                    padding-left="0"/>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#ffffff">
+            <mj-column >
+                <mj-image
+                    src="Image3.png"
+                    alt=""
+                    width="284px" />
+            </mj-column>
+            <mj-column>
+                <mj-text padding-top="20px" padding-left="0" color="#000" font-size="27px" font-weight="700" align="left" line-height="34px">
+                    Customize this<br> email template!
+                </mj-text>
+                <mj-text padding-top="0" padding-left="0" color="#000" font-size="19px" font-weight="400" line-height="24px">
+                    Boost your emails with Blush! Create dope emails easy and fast! 
+                </mj-text>
+                <mj-button padding-left="0" color="#000" font-size="14px" font-weight="500" background-color="#fff" border="1px solid #000" align="left" >
+                    Try it now!
+                </mj-button>
+
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff">
+            <mj-column>
+                <mj-text color="#000" font-size="20px" font-weight="400" line-height="35px">
+                    Boost your emails with Blush! Create dope emails easy and fast! 
+                    Install the Blush plugin to customize all the illustrations!
+
+                    
+                </mj-text>
+                <mj-text  color="#000" font-size="20px" font-weight="400" >
+                    Create the coolest emails!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#ffffff">
+            <mj-column width="500px" border-top="3px solid #000" padding-top="40px">
+                <mj-text color="#000" font-size="13px" font-weight="400" align="center" line-height="22px">
+                    Corporation<br>You are receiving this email because you opted in via our<br> website.
+                </mj-text>
+                <mj-social>
+                    <mj-social-element src="twitter.png" name="Twitter">
+                    
+                    </mj-social-element>
+                    <mj-social-element src="instagram.png" name="Instagram">
+                    
+                    </mj-social-element>
+                    <mj-social-element src="youtube.png" name="Youtube">
+                    
+                    </mj-social-element>
+                    <mj-social-element src="dribble.png" name="Dribble">
+                    
+                    </mj-social-element>
+                    <mj-social-element src="linkedin.png" name="LinkedIn">
+                    
+                    </mj-social-element>
+                </mj-social>
+                <mj-text color="#000" font-size="13px" font-weight="400" line-height="20px" align="center">
+                    Address, #PC<br>City, State.
+                </mj-text>
+                <mj-button padding-top="0" background-color="#fff" color="#000" text-decoration="underline">
+                    Unsubscribe
+                </mj-button>
+                <mj-image
+                     src="City.png"
+                     alt=""
+                     width="300px"
+                     padding-bottom="20px" />
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
